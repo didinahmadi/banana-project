@@ -1,0 +1,17 @@
+{
+    "name": "didinahmadi/hello",
+    "description": "first step before making oss project",
+    "authors": [
+        {
+            "name": "Didin Abu Aisy",
+            "email": "didin@myworkforce.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "BananaProject\\": "src/" 
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
