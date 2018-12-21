@@ -1,6 +1,7 @@
 {
     "name": "didinahmadi/hello",
     "description": "first step before making oss project",
+    type: "library",
     "authors": [
         {
             "name": "Didin Abu Aisy",
